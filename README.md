@@ -5,8 +5,11 @@ Requisitos para ejecutar:
 
 
 -Windows
+
 -Compilador GCC
+
 -IDE (*Recomendado)
+
 -Computadora sin muchos programas ejecutandose al mismo tiempo/bloatware (*Reacomendado)
 
 
