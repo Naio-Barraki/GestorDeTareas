@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700888078 source:c:\users\cnath\onedrive\documentos\projects\gestordetareas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"librerias.h"
+
+1700888034 c:\users\cnath\onedrive\documentos\projects\gestordetareas\librerias.h
+
