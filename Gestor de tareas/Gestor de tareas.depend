@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1700837765 source:c:\users\usuario\documents\sumatoria\ejercicio\gestor de tareas\main.c
-	<stdio.h>
-	<stdlib.h>
-	"librerias.h"
-
-1700838073 c:\users\usuario\documents\sumatoria\ejercicio\gestor de tareas\librerias.h
-
